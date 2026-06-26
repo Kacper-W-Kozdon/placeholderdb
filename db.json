@@ -1,8 +1,8 @@
 
 {
     "jobOffers": [
-        { "id": "1", "key": "job1", "pay": 10, "mode": "WFH", "companyName": "Company1", "position": "worker", "level": "senior", "location": "here", "contract": "no", "companyLogo": "<span class='material-icons-outlined'>work</span>" },
-        { "id": "2", "key": "job2", "pay": 1, "mode": "WFH", "companyName": "Company1", "position": "worker", "level": "junior", "location": "there", "contract": "yes", "companyLogo": "<span class='material-icons-outlined'>work</span>" }
+        { "id": "1", "pay": 10, "mode": "WFH", "companyName": "Company1", "position": "worker", "level": "senior", "location": "here", "contract": "no", "companyLogo": "<span class='material-icons-outlined'>work</span>" },
+        { "id": "2", "pay": 1, "mode": "WFH", "companyName": "Company1", "position": "worker", "level": "junior", "location": "there", "contract": "yes", "companyLogo": "<span class='material-icons-outlined'>work</span>" }
     ],
     "comment": {"value": "Check https://my-json-server.typicode.com/"}
 }
