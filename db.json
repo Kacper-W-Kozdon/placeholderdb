@@ -1,8 +1,227 @@
 
 {
-    "jobOffers": [
-        { "id": "1", "pay": 10, "mode": "WFH", "companyName": "Company1", "position": "physical worker", "level": "senior", "location": "here", "contract": "no", "companyLogo": "<span class='material-icons-outlined'>work</span>" },
-        { "id": "2", "pay": 1, "mode": "WFH", "companyName": "Company1", "position": "worker", "level": "junior", "location": "there", "contract": "yes", "companyLogo": "<span class='material-icons-outlined'>work</span>" }
+    "jobOffers": [            
+        {
+            "id": "1",
+            "pay": 3200,
+            "mode": "WFH",
+            "companyName": "TechSolutions",
+            "position": "Frontend Developer",
+            "level": "mid",
+            "location": "Warszawa",
+            "contract": "B2B",
+            "companyLogo": ""
+        },
+        {
+            "id": "2",
+            "pay": 4500,
+            "mode": "hybrid",
+            "companyName": "DataCore",
+            "position": "Data Engineer",
+            "level": "senior",
+            "location": "Kraków",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "3",
+            "pay": 1200,
+            "mode": "office",
+            "companyName": "LogiTrans",
+            "position": "Asystent logistyki",
+            "level": "intern",
+            "location": "Gdańsk",
+            "contract": "umowa o dzieło",
+            "companyLogo": ""
+        },
+        {
+            "id": "4",
+            "pay": 2800,
+            "mode": "WFH",
+            "companyName": "CloudNine",
+            "position": "DevOps Engineer",
+            "level": "mid",
+            "location": "Wrocław",
+            "contract": "B2B",
+            "companyLogo": ""
+        },
+        {
+            "id": "5",
+            "pay": 5000,
+            "mode": "hybrid",
+            "companyName": "FinanceHub",
+            "position": "Architekt systemów",
+            "level": "lead",
+            "location": "Warszawa",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "6",
+            "pay": 1800,
+            "mode": "office",
+            "companyName": "MediaPlus",
+            "position": "Grafik komputerowy",
+            "level": "junior",
+            "location": "Poznań",
+            "contract": "umowa o dzieło",
+            "companyLogo": ""
+        },
+        {
+            "id": "7",
+            "pay": 3500,
+            "mode": "WFH",
+            "companyName": "SecureNet",
+            "position": "Specjalista ds. cyberbezpieczeństwa",
+            "level": "senior",
+            "location": "Łódź",
+            "contract": "B2B",
+            "companyLogo": ""
+        },
+        {
+            "id": "8",
+            "pay": 2200,
+            "mode": "hybrid",
+            "companyName": "GreenEnergy",
+            "position": "Inżynier środowiska",
+            "level": "mid",
+            "location": "Katowice",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "9",
+            "pay": 1000,
+            "mode": "office",
+            "companyName": "RetailMax",
+            "position": "Pracownik magazynu",
+            "level": "intern",
+            "location": "Szczecin",
+            "contract": "umowa o dzieło",
+            "companyLogo": ""
+        },
+        {
+            "id": "10",
+            "pay": 4200,
+            "mode": "WFH",
+            "companyName": "AIVentures",
+            "position": "Machine Learning Engineer",
+            "level": "senior",
+            "location": "Warszawa",
+            "contract": "B2B",
+            "companyLogo": ""
+        },
+        {
+            "id": "11",
+            "pay": 2600,
+            "mode": "hybrid",
+            "companyName": "HealthTech",
+            "position": "Analityk danych medycznych",
+            "level": "mid",
+            "location": "Kraków",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "12",
+            "pay": 1500,
+            "mode": "office",
+            "companyName": "BuildPro",
+            "position": "Technik budowlany",
+            "level": "junior",
+            "location": "Lublin",
+            "contract": "umowa o dzieło",
+            "companyLogo": ""
+        },
+        {
+            "id": "13",
+            "pay": 4800,
+            "mode": "WFH",
+            "companyName": "SoftHouse",
+            "position": "Backend Developer",
+            "level": "lead",
+            "location": "Gdynia",
+            "contract": "B2B",
+            "companyLogo": ""
+        },
+        {
+            "id": "14",
+            "pay": 3000,
+            "mode": "hybrid",
+            "companyName": "EduSmart",
+            "position": "Projektant UX/UI",
+            "level": "mid",
+            "location": "Wrocław",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "15",
+            "pay": 1100,
+            "mode": "office",
+            "companyName": "FoodFactory",
+            "position": "Operator produkcji",
+            "level": "intern",
+            "location": "Bydgoszcz",
+            "contract": "umowa o dzieło",
+            "companyLogo": ""
+        },
+        {
+            "id": "16",
+            "pay": 3800,
+            "mode": "WFH",
+            "companyName": "MobileDev",
+            "position": "iOS Developer",
+            "level": "senior",
+            "location": "Poznań",
+            "contract": "B2B",
+            "companyLogo": ""
+        },
+        {
+            "id": "17",
+            "pay": 2400,
+            "mode": "hybrid",
+            "companyName": "LegalPartners",
+            "position": "Asystent prawny",
+            "level": "junior",
+            "location": "Warszawa",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "18",
+            "pay": 4000,
+            "mode": "office",
+            "companyName": "AutoMotive",
+            "position": "Inżynier jakości",
+            "level": "senior",
+            "location": "Tychy",
+            "contract": "umowa o pracę",
+            "companyLogo": ""
+        },
+        {
+            "id": "19",
+            "pay": 1700,
+            "mode": "WFH",
+            "companyName": "ContentStudio",
+            "position": "Copywriter",
+            "level": "junior",
+            "location": "Kraków",
+            "contract": "umowa o dzieło",
+            "companyLogo": ""
+        },
+        {
+            "id": "20",
+            "pay": 4700,
+            "mode": "hybrid",
+            "companyName": "BankSecure",
+            "position": "Product Owner",
+            "level": "lead",
+            "location": "Warszawa",
+            "contract": "B2B",
+            "companyLogo": ""
+        }
+
     ],
     "comment": {"value": "Check https://my-json-server.typicode.com/"}
 }
