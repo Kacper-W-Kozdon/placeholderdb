@@ -1,288 +1,34 @@
 { "dummyProfile":
-    {
-        "name": "",
-        "id": "",
-        "boosters": [{"label": "Możliwość pracy w słuchawkach wyciszających", "value": 1}, {"label": "Ciche klawiatury", "value": 1}, {"label": "Autentyczność", "value": 1}, {"label": "Częste rozmowy telefoniczne", "value": -1}, {"label": "Częste rozmowy telefoniczne", "value": -1}, {"label": "Pokoje do pracy indywidualnej", "value": 1}, {"label": "Górne światło", "value": -1}]
-    },
-
+    {"name": "","id": "","boosters": [{"label": "Możliwość pracy w słuchawkach wyciszających", "value": 1}, {"label": "Ciche klawiatury", "value": 1}, {"label": "Autentyczność", "value": 1}, {"label": "Częste rozmowy telefoniczne", "value": -1}, {"label": "Częste rozmowy telefoniczne", "value": -1}, {"label": "Pokoje do pracy indywidualnej", "value": 1}, {"label": "Górne światło", "value": -1}]},
     "jobOffers":
-
-
     [
-        {
-            "id": 1001,
-            "jobId": 1001,
-            "companyLogo": "",
-            "companyName": "TechNova Solutions",
-            "companyId": 101,
-            "position": "Inżynier DevOps",
-            "pay": "10000-24000",
-            "level": "Specjalista (Mid/Regular)",
-            "mode": "Zdalna",
-            "location": "Warszawa",
-            "contract": "B2B",
-            "employment": "Cały etat",
-            "paymentForm": "Zadaniowe",
-            "paymentSystem": "Stała podstawa",
-            "main": "",
-            "boosters": [{"label": "Przesłuchanie planu spotkania z wyprzedzeniem", "value": 1}, {"label": "Górne światło", "value": 1}, {"label": "Eksperymentowanie", "value": -1}, {"label": "Odpowiedzialność", "value": 1}],
-            "about": "Firma TechNova Solutions poszukuje utalentowanej osoby na stanowisko Inżynier DevOps. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
-            "duties": [
-            "Utrzymanie i rozwój infrastruktury chmurowej",
-            "Automatyzacja procesów CI/CD",
-            "Monitorowanie bezpieczeństwa systemów"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Specjalista (Mid/Regular), dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Głębokie skupienie",
-            "Samodzielność",
-            "Odporność na stres"
-            ],
-            "benefits": [
-            "Karta MultiSport",
-            "Prywatna opieka medyczna",
-            "Dofinansowanie do kursów i szkoleń"
-            ],
-            "otherBenefits": "Roczny budżet na rozwój osobisty do wykorzystania na dowolne pasje, bezpłatny parking podziemny, nielimitowany zapas kawy z palarni.",
-            "published": "18. lipca 2026, godz. 14:22:15",
-            "other": ""
-        },
-        {
-            "id": 1002,
-            "jobId": 1002,
-            "companyLogo": "",
-            "companyName": "GreenPulse Energy",
-            "companyId": 102,
-            "position": "Analityk Danych",
-            "pay": "7000-15000",
-            "level": "Młodszy specjalista (Junior)",
-            "mode": "Hybrydowa",
-            "location": "Kraków",
-            "contract": "Umowa o pracę",
-            "employment": "Cały etat",
-            "paymentForm": "Godzinowe",
-            "paymentSystem": "Stała podstawa",
-            "main": "",
-            "boosters": [{"label": "Równowaga (work-life balance)", "value": 1}, {"label": "Open space", "value": 1}, {"label": "Prestiż", "value": 1}, {"label": "Pokoje do pracy indywidualnej", "value": -1}, {"label": "Open space", "value": 1}],
-            "about": "Firma GreenPulse Energy poszukuje utalentowanej osoby na stanowisko Analityk Danych.",
-            "duties": [
-            "Tworzenie raportów i pulpitów nawigacyjnych",
-            "Analiza trendów rynkowych",
-            "Przetwarzanie zbiorów Big Data"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Młodszy specjalista (Junior), dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Myślenie analityczne",
-            "Dociekliwość",
-            "Metodyczność"
-            ],
-            "benefits": [
-            "Prywatna opieka medyczna",
-            "Ubezpieczenie na życie",
-            "Elastyczne godziny pracy"
-            ],
-            "otherBenefits": "Piątki skrócone o 2 godziny, dofinansowanie do opieki nad zwierzętami domowymi (pet benefit).",
-            "published": "05. lipca 2026, godz. 09:41:03",
-            "other": ""
-        },
-
-        {
-            "id": 1113,
-            "jobId": 1113,
-            "companyLogo": "",
-            "companyName": "DataBridge Analytics",
-            "companyId": 110,
-            "position": "Specjalista ds. HR i Rekrutacji",
-            "pay": "5500-11000",
-            "level": "Praktykant/Stażysta",
-            "mode": "Zdalna",
-            "location": "Szczecin",
-            "contract": "Umowa agencyjna",
-            "employment": "Praca dorywcza/tymczasowa",
-            "paymentForm": "Godzinowe",
-            "paymentSystem": "Stała podstawa",
-            "main": "",
-            "boosters": [{"label": "Bezpieczeństwo", "value": 1}, {"label": "Bezpośredniość", "value": -1}, {"label": "Ciche klawiatury", "value": -1}],
-            "about": "Firma DataBridge Analytics poszukuje utalentowanej osoby na stanowisko Specjalista ds. HR i Rekrutacji. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
-            "duties": [
-            "Prowadzenie procesów rekrutacyjnych",
-            "Onboarding nowych pracowników",
-            "Dbanie o kulturę organizacyjną"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Praktykant/Stażysta, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Empatia",
-            "Łatwość nawiązywania kontaktów",
-            "Dobra organizacja pracy"
-            ],
-            "benefits": [
-            "Prywatna opieka medyczna",
-            "Ubezpieczenie na życie",
-            "Elastyczne godziny pracy"
-            ],
-            "otherBenefits": "Dofinansowanie do urlopu wakacyjnego (wczasy pod gruszą), dostęp do zakładowego strefy chillout z konsolami i masażami.",
-            "published": "5. lipca 2026, godz. 09:11:30",
-            "other": ""
-        },
-        {
-            "id": 1114,
-            "jobId": 1114,
-            "companyLogo": "",
-            "companyName": "EcoPack Systems",
-            "companyId": 107,
-            "position": "Specjalista ds. Marketingu Digital",
-            "pay": "5000-10000",
-            "level": "Kierownik/Koordynator",
-            "mode": "Stacjonarna",
-            "location": "Kraków",
-            "contract": "Umowa o pracę",
-            "employment": "Cały etat",
-            "paymentForm": "Godzinowe",
-            "paymentSystem": "Prowizja",
-            "main": "",
-            "boosters": [{"label": "Rozwój osobisty", "value": 1}, {"label": "Równowaga (work-life balance)", "value": -1}],
-            "about": "Firma EcoPack Systems poszukuje utalentowanej osoby na stanowisko Specjalista ds. Marketingu Digital. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
-            "duties": [
-            "Prowadzenie kampanii Google Ads i Social Media",
-            "Analiza współczynników konwersji",
-            "Tworzenie treści reklamowych"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Kierownik/Koordynator, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Kreatywność",
-            "Analityczny umysł",
-            "Inicjatywa"
-            ],
-            "benefits": [
-            "Prywatna opieka medyczna",
-            "Karta kulturalna",
-            "Służbowy laptop i telefon"
-            ],
-            "otherBenefits": "Dodatkowy płatny dzień wolny w urodziny, dofinansowanie do zakupu roweru lub hulajnogi elektrycznej.",
-            "published": "9. lipca 2026, godz. 09:31:48",
-            "other": ""
-        },
-        {
-            "id": 1003,
-            "jobId": 1003,
-            "companyLogo": "",
-            "companyName": "TechNova Solutions",
-            "companyId": 101,
-            "position": "Specjalista ds. Marketingu Digital",
-            "pay": "5000-10000",
-            "level": "Menedżer",
-            "mode": "Stacjonarna",
-            "location": "Warszawa",
-            "contract": "Umowa o staż/praktyki",
-            "employment": "Pół etatu",
-            "paymentForm": "Zadaniowe",
-            "paymentSystem": "Stała podstawa + prowizja",
-            "main": "",
-            "boosters": [{"label": "Możliwość pracy w słuchawkach wyciszających", "value": -1}, {"label": "Pokój regeneracji sensorycznej", "value": 1}],
-            "about": "Firma TechNova Solutions poszukuje utalentowanej osoby na stanowisko Specjalista ds. Marketingu Digital. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
-            "duties": [
-            "Prowadzenie kampanii Google Ads i Social Media",
-            "Analiza współczynników konwersji",
-            "Tworzenie treści reklamowych"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Menedżer, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Kreatywność",
-            "Analityczny umysł",
-            "Inicjatywa"
-            ],
-            "benefits": [
-            "Prywatna opieka medyczna",
-            "Ubezpieczenie na życie",
-            "Elastyczne godziny pracy"
-            ],
-            "otherBenefits": "Możliwość pracy z zagranicy do 30 dni w roku (workation), darmowe śniadania w biurze.",
-            "published": "2. lipca 2026, godz. 11:32:31",
-            "other": ""
-        },
-        {
-            "id": 1004,
-            "jobId": 1004,
-            "companyLogo": "",
-            "companyName": "MediCare Plus",
-            "companyId": 109,
-            "position": "Specjalista ds. Obsługi Klienta",
-            "pay": "4200-7000",
-            "level": "Asystent",
-            "mode": "Hybrydowa",
-            "location": "Bydgoszcz",
-            "contract": "Umowa zlecenie",
-            "employment": "Pół etatu",
-            "paymentForm": "Godzinowe",
-            "paymentSystem": "Prowizja",
-            "main": "",
-            "boosters": [{"label": "Kultura formalna", "value": 1}],
-            "about": "Firma MediCare Plus poszukuje utalentowanej osoby na stanowisko Specjalista ds. Obsługi Klienta. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
-            "duties": [
-            "Odpowiadanie na zapytania klientów",
-            "Rozpatrywanie reklamacji",
-            "Wprowadzanie danych do systemu CRM"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Asystent, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Cierpliwość",
-            "Wysoka kultura osobista",
-            "Skrupulatność"
-            ],
-            "benefits": [
-            "Prywatna opieka medyczna",
-            "Karta kulturalna",
-            "Służbowy laptop i telefon"
-            ],
-            "otherBenefits": "Dofinansowanie do urlopu wakacyjnego (wczasy pod gruszą), dostęp do zakładowego strefy chillout z konsolami i masażami.",
-            "published": "24. lipca 2026, godz. 14:54:38",
-            "other": ""
-        },
-        {
-            "id": 1005,
-            "jobId": 1005,
-            "companyLogo": "",
-            "companyName": "GreenPulse Energy",
-            "companyId": 102,
-            "position": "Analityk Danych",
-            "pay": "7000-15000",
-            "level": "Kierownik/Koordynator",
-            "mode": "Zdalna",
-            "location": "Lublin",
-            "contract": "B2B",
-            "employment": "Cały etat",
-            "paymentForm": "Godzinowe",
-            "paymentSystem": "Stała podstawa",
-            "main": "",
-            "boosters": [{"label": "Odpowiedzialność", "value": 1}],
-            "about": "Firma GreenPulse Energy poszukuje utalentowanej osoby na stanowisko Analityk Danych. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
-            "duties": [
-            "Tworzenie raportów i pulpitów nawigacyjnych",
-            "Analiza trendów rynkowych",
-            "Przetwarzanie zbiorów Big Data"
-            ],
-            "day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
-            "requirements": "Doświadczenie na poziomie Kierownik/Koordynator, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
-            "profile": [
-            "Myślenie analityczne",
-            "Dociekliwość",
-            "Metodyczność"
-            ],
-            "benefits": [
-            "Karta MultiSport",
-            "Prywatna opieka medyczna",
-            "Dofinansowanie do kursów i szkoleń"
-            ],
-            "otherBenefits": "Dofinansowanie do urlopu wakacyjnego (wczasy pod gruszą), dostęp do zakładowego strefy chillout z konsolami i masażami.",
-            "published": "4. lipca 2026, godz. 17:56:50",
-            "other": ""
-        }
-        
-    ]
-}
+        {"id": 1001,"jobId": 1001,"companyLogo": "","companyName": "TechNova Solutions","companyId": 101,"position": "Inżynier DevOps","pay": "10000-24000","level": "Specjalista (Mid/Regular)","mode": "Zdalna","location": "Warszawa","contract": "B2B","employment": "Cały etat","paymentForm": "Zadaniowe","paymentSystem": "Stała podstawa","main": "","boosters": [{"label": "Przesłuchanie planu spotkania z wyprzedzeniem", "value": 1}, {"label": "Górne światło", "value": 1}, {"label": "Eksperymentowanie", "value": -1}, {"label": "Odpowiedzialność", "value": 1}],"about": "Firma TechNova Solutions poszukuje utalentowanej osoby na stanowisko Inżynier DevOps. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.","duties": ["Utrzymanie i rozwój infrastruktury chmurowej","Automatyzacja procesów CI/CD","Monitorowanie bezpieczeństwa systemów"],"day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.","requirements": "Doświadczenie na poziomie Specjalista (Mid/Regular), dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.","profile": ["Głębokie skupienie","Samodzielność","Odporność na stres"],"benefits": ["Karta MultiSport","Prywatna opieka medyczna","Dofinansowanie do kursów i szkoleń"],"otherBenefits": "Roczny budżet na rozwój osobisty do wykorzystania na dowolne pasje, bezpłatny parking podziemny, nielimitowany zapas kawy z palarni.","published": "18. lipca 2026, godz. 14:22:15","other": ""},
+        {"id": 1002,"jobId": 1002,"companyLogo": "","companyName": "GreenPulse Energy","companyId": 102,"position": "Analityk Danych","pay": "7000-15000","level": "Młodszy specjalista (Junior)","mode": "Hybrydowa","location": "Kraków","contract": "Umowa o pracę","employment": "Cały etat","paymentForm": "Godzinowe","paymentSystem": "Stała podstawa","main": "","boosters": [{"label": "Równowaga (work-life balance)", "value": 1}, {"label": "Open space", "value": 1}, {"label": "Prestiż", "value": 1}, {"label": "Pokoje do pracy indywidualnej", "value": -1}, {"label": "Open space", "value": 1}],"about": "Firma GreenPulse Energy poszukuje utalentowanej osoby na stanowisko Analityk Danych.","duties": ["Tworzenie raportów i pulpitów nawigacyjnych","Analiza trendów rynkowych","Przetwarzanie zbiorów Big Data"],"day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.","requirements": "Doświadczenie na poziomie Młodszy specjalista (Junior), dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.","profile": ["Myślenie analityczne","Dociekliwość","Metodyczność"],"benefits": ["Prywatna opieka medyczna","Ubezpieczenie na życie","Elastyczne godziny pracy"],"otherBenefits": "Piątki skrócone o 2 godziny, dofinansowanie do opieki nad zwierzętami domowymi (pet benefit).","published": "05. lipca 2026, godz. 09:41:03","other": ""},
+        {"id": 1113,"jobId": 1113,"companyLogo": "","companyName": "DataBridge Analytics","companyId": 110,"position": "Specjalista ds. HR i Rekrutacji","pay": "5500-11000","level": "Praktykant/Stażysta","mode": "Zdalna","location": "Szczecin","contract": "Umowa agencyjna","employment": "Praca dorywcza/tymczasowa","paymentForm": "Godzinowe","paymentSystem": "Stała podstawa","main": "","boosters": [{"label": "Bezpieczeństwo", "value": 1}, {"label": "Bezpośredniość", "value": -1}, {"label": "Ciche klawiatury", "value": -1}],"about": "Firma DataBridge Analytics poszukuje utalentowanej osoby na stanowisko Specjalista ds. HR i Rekrutacji. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.","duties": ["Prowadzenie procesów rekrutacyjnych","Onboarding nowych pracowników","Dbanie o kulturę organizacyjną"],"day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.","requirements": "Doświadczenie na poziomie Praktykant/Stażysta, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.","profile": ["Empatia","Łatwość nawiązywania kontaktów","Dobra organizacja pracy"],"benefits": ["Prywatna opieka medyczna","Ubezpieczenie na życie","Elastyczne godziny pracy"],"otherBenefits": "Dofinansowanie do urlopu wakacyjnego (wczasy pod gruszą), dostęp do zakładowego strefy chillout z konsolami i masażami.","published": "5. lipca 2026, godz. 09:11:30","other": ""},
+        {"id": 1114,"jobId": 1114,"companyLogo": "","companyName": "EcoPack Systems","companyId": 107,"position": "Specjalista ds. Marketingu Digital","pay": "5000-10000","level": "Kierownik/Koordynator","mode": "Stacjonarna","location": "Kraków","contract": "Umowa o pracę","employment": "Cały etat","paymentForm": "Godzinowe","paymentSystem": "Prowizja","main": "","boosters": [{"label": "Rozwój osobisty", "value": 1}, {"label": "Równowaga (work-life balance)", "value": -1}],"about": "Firma EcoPack Systems poszukuje utalentowanej osoby na stanowisko Specjalista ds. Marketingu Digital. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.","duties": ["Prowadzenie kampanii Google Ads i Social Media","Analiza współczynników konwersji","Tworzenie treści reklamowych"],"day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.","requirements": "Doświadczenie na poziomie Kierownik/Koordynator, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.","profile": ["Kreatywność","Analityczny umysł","Inicjatywa"],"benefits": ["Prywatna opieka medyczna","Karta kulturalna","Służbowy laptop i telefon"],"otherBenefits": "Dodatkowy płatny dzień wolny w urodziny, dofinansowanie do zakupu roweru lub hulajnogi elektrycznej.","published": "9. lipca 2026, godz. 09:31:48","other": ""},
+{"id": 1003,
+"jobId": 1003,
+"companyLogo": "",
+"companyName": "TechNova Solutions",
+"companyId": 101,
+"position": "Specjalista ds. Marketingu Digital",
+"pay": "5000-10000",
+"level": "Menedżer",
+"mode": "Stacjonarna",
+"location": "Warszawa",
+"contract": "Umowa o staż/praktyki",
+"employment": "Pół etatu",
+"paymentForm": "Zadaniowe",
+"paymentSystem": "Stała podstawa + prowizja",
+"main": "",
+"boosters": [{"label": "Możliwość pracy w słuchawkach wyciszających", "value": -1}, {"label": "Pokój regeneracji sensorycznej", "value": 1}],
+"about": "Firma TechNova Solutions poszukuje utalentowanej osoby na stanowisko Specjalista ds. Marketingu Digital. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.",
+"duties": ["Prowadzenie kampanii Google Ads i Social Media","Analiza współczynników konwersji","Tworzenie treści reklamowych"],
+"day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.",
+"requirements": "Doświadczenie na poziomie Menedżer, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.",
+"profile": ["Kreatywność","Analityczny umysł","Inicjatywa"],
+"benefits": ["Prywatna opieka medyczna","Ubezpieczenie na życie","Elastyczne godziny pracy"],
+"otherBenefits": "Możliwość pracy z zagranicy do 30 dni w roku (workation), darmowe śniadania w biurze.",
+"published": "2. lipca 2026, godz. 11:32:31",
+"other": ""},
+{"id": 1004,"jobId": 1004,"companyLogo": "","companyName": "MediCare Plus","companyId": 109,"position": "Specjalista ds. Obsługi Klienta","pay": "4200-7000","level": "Asystent","mode": "Hybrydowa","location": "Bydgoszcz","contract": "Umowa zlecenie","employment": "Pół etatu","paymentForm": "Godzinowe","paymentSystem": "Prowizja","main": "","boosters": [{"label": "Kultura formalna", "value": 1}],"about": "Firma MediCare Plus poszukuje utalentowanej osoby na stanowisko Specjalista ds. Obsługi Klienta. Oferujemy pracę w dynamicznym zespole i możliwości rozwoju.","duties": ["Odpowiadanie na zapytania klientów","Rozpatrywanie reklamacji","Wprowadzanie danych do systemu CRM"],"day": "Poranna odprawa z zespołem, realizacja zadań priorytetowych, analiza wyników i udział w spotkaniach statusowych.","requirements": "Doświadczenie na poziomie Asystent, dobra znajomość branży, umiejętność pracy w zespole oraz znajomość języka angielskiego.","profile": ["Cierpliwość","Wysoka kultura osobista","Skrupulatność"],"benefits": ["Prywatna opieka medyczna","Karta kulturalna","Służbowy laptop i telefon"],"otherBenefits": "Dofinansowanie do urlopu wakacyjnego (wczasy pod gruszą), dostęp do zakładowego strefy chillout z konsolami i masażami.","published": "24. lipca 2026, godz. 14:54:38","other": ""}]}
